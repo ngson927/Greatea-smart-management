@@ -148,8 +148,8 @@ The API will be available at `http://localhost:5000`.
 ## Author
 
 **Son Nguyen**  
-Developer | Greatea Suwanee LLC  
-Email: greateasuwanee@gmail.com
+Computer Science Student | Developer @ Greatea Suwanee LLC  
+Email: ngson927@gmail.com
 
 ## License
 
