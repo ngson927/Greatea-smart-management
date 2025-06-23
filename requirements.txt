@@ -1,0 +1,19 @@
+# Core dependencies
+flask==2.3.3
+flask-sqlalchemy==3.0.5
+flask-cors==4.0.0
+pymysql==1.1.0
+python-dotenv==1.0.0
+
+# Additional dependencies
+SQLAlchemy==2.0.20
+Werkzeug==2.3.7
+gunicorn==21.2.0
+cryptography==41.0.3  # Required for PyMySQL with SSL
+
+# Development dependencies
+pytest==7.4.0
+pytest-flask==1.2.0
+coverage==7.3.1
+black==23.7.0
+flake8==6.1.0
